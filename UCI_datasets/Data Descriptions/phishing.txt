@@ -1,0 +1,21 @@
+Data Set Information:
+
+The phishing problem is considered a vital issue in “.COM” industry especially e-banking and e-commerce taking the number of online transactions involving payments. 
+We have identified different features related to legitimate and phishy websites and collected 1353 different websites from difference sources.Phishing websites were collected from Phishtank data archive (www.phishtank.com), which is a free community site where users can submit, verify, track and share phishing data. The legitimate websites were collected from Yahoo and starting point directories using a web script developed in PHP. The PHP script was plugged with a browser and we collected 548 legitimate websites out of 1353 websites. There is 702 phishing URLs, and 103 suspicious URLs. 
+
+When a website is considered SUSPICIOUS that means it can be either phishy or legitimate, meaning the website held some legit and phishy features.
+
+
+Attribute Information:
+
+URL Anchor	
+Request URL	
+SFH	
+URL Length	
+Having ’@’	
+Prefix/Suffix	
+IP	
+Sub Domain	
+Web traffic	
+Domain age	
+Class 

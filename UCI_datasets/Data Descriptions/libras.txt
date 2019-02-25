@@ -1,0 +1,17 @@
+Data Set Information:
+
+The dataset (movement_libras) contains 15 classes of 24 instances each, where each class references to a hand movement type in LIBRAS. 
+
+In the video pre-processing, a time normalization is carried out selecting 45 frames from each video, in according 
+to an uniform distribution. In each frame, the centroid pixels of the segmented objects (the hand) are found, which 
+compose the discrete version of the curve F with 45 points. All curves are normalized in the unitary space. 
+
+In order to prepare these movements to be analysed by algorithms, we have carried out a mapping operation, that is, each 
+curve F is mapped in a representation with 90 features, with representing the coordinates of movement. 
+
+Some sub-datasets are offered in order to support comparisons of results. 
+
+
+Attribute Information:
+
+90 numeric (double) and 1 for the class (integer)

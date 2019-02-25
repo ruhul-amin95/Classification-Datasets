@@ -1,0 +1,8 @@
+Data Set Information:
+
+Collected to perform experimentation on how wifi signal strengths can be used to determine one of the indoor locations.
+
+
+Attribute Information:
+
+Each attribute is wifi signal strength observed on smartphone.
